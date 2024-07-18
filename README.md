@@ -13,4 +13,4 @@ This is a fully responsive landing page built using Bootstrap 5. The project is 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/sajjadjavazi/Boot-camp-project/blob/master/LICENSE "LICENSE") for more information.
+Distributed under the MIT License, See [LICENSE](https://github.com/sajjadjavazi/Boot-camp-project/blob/master/LICENSE "LICENSE") for more information.
